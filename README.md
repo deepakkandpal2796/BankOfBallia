@@ -6,7 +6,7 @@ This is a bank in ballia known as union bank of ballia. Hope you like it.
 
 
 # Features:
-  - Calculated the deposited and withdrawal amount.
+  - <b>Calculate Deposits and Withdrawals:<b/> The app calculates both deposited and withdrawn amounts.
   - You can also sort the deposite and withdrawal.
   - The total balance is being displayed in the app.
   - You can transfer the money to any of the users. The account info will update after every transaction of the current user and the user you have transfered the money.
