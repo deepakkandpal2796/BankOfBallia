@@ -6,13 +6,13 @@ This is a bank in ballia known as union bank of ballia. Hope you like it.
 
 
 # Features:
-  - <b>Calculate Deposits and Withdrawals:<b/> The app calculates both deposited and withdrawn amounts.
-  - You can also sort the deposite and withdrawal.
-  - The total balance is being displayed in the app.
-  - You can transfer the money to any of the users. The account info will update after every transaction of the current user and the user you have transfered the money.
-  - You can also take loan form the bank. You can get the loan if you have deposited 10% of that amount in your bank account.
-  - You can also close the bank account.
-  - You can click on the 'i'  button and a modal will be open which helps you in navigating through the app.
+  - **Calculate Deposits and Withdrawals:** The app calculates both deposited and withdrawn amounts.
+  - **Sorting:** Users can sort their deposits and withdrawals.
+  - **Display Total Balance:** The total balance is displayed within the app.
+  - **Money Transfer:** Users can transfer money to other users. Account information updates after each transaction for both the sender and receiver.
+  - **Loan Facility:** Users can request a loan from the bank. Eligibility requires a minimum deposit of 10% of the loan amount in the bank account.
+  - **Close Bank Account:** Users have the option to close their bank account.
+  - **Information Modal:** Clicking on the 'i' button opens a modal providing guidance on navigating the app.
   
 # Tech Stack Used :
     HTML, CSS, JavaScript.
