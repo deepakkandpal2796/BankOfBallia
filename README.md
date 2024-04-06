@@ -1,5 +1,6 @@
 # BankOfBallia
-While working with banks for almost 8 months i tried to make a basic bank application. Hope you like it.
+While working with banks for almost 8 months i tried to make a basic bank application. 
+This is a bank in ballia known as union bank of ballia. Hope you like it.
 
 [Live Website](https://deepakkandpal2796.github.io/BankOfBallia/)
 
